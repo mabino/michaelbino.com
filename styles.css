@@ -26,7 +26,7 @@ body {
 header.hero {
     background-color: var(--primary-color);
     color: #fff;
-    padding: 60px 0;
+    padding: 20px 0;    
     text-align: center;
 }
 
